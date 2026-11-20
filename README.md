@@ -78,10 +78,13 @@ sqlite3 videojuegos.db "SELECT * FROM Videojuegos;"
 ```
 
 ## Autor
-<Luis Miguel Cantillo Sarmiento>
+
+<Luis Miguel Cantillo Sarmiento> 
 
 ## Asignatura
+
 <Electiva de profundización I - 4BR>
 
 ## Docente
+
 <Eduardo Pimienta>
